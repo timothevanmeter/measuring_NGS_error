@@ -1,0 +1,13 @@
+
+
+# IGNORE ALL FOLDERS INSIDE THE CURRENT FOLDER
+
+NGS_simulation/
+NGS_samples/
+NGS_data/
+barcodes_NGS1/
+
+
+# IGNORE ALL THE BINARIES
+
+*.o
